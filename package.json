@@ -1,0 +1,15 @@
+{
+  "name": "idk-cli",
+  "version": "1.0.0",
+  "description": "A decision-making CLI tool for when you don't know what to do",
+  "main": "index.js",
+  "bin": {
+    "idk": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["cli", "decision", "random", "advice"],
+  "author": "",
+  "license": "MIT"
+}
